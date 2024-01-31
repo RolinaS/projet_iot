@@ -1,0 +1,7 @@
+site_name: Documentation du projet iot
+
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: black
