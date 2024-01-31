@@ -1,7 +1,11 @@
 site_name: Documentation du projet iot
+site_url: http://localhost:8002
 
-theme:
-  name: material
+nav:
+  - Home: index.md
+  
+theme: 
+  name: readthedocs
   language: fr
   palette:
     primary: black
