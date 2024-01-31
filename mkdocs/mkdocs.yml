@@ -2,8 +2,8 @@ site_name: Documentation du projet iot
 site_url: http://localhost:8002
 
 nav:
-  - Home: index.md
-  
+  - Home: 'index.md'
+
 theme: 
   name: readthedocs
   language: fr
